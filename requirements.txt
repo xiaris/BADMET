@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+autograd
+emcee
+corner
+jupyterlab
+nbformat
+scipy
+tqdm
