@@ -1,4 +1,3 @@
-"""BADDAT lookup functions; see PROVENANCE.md for snapshot details."""
 from pathlib import Path
 import numpy as np
 

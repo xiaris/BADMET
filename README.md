@@ -22,3 +22,4 @@ git clone https://github.com/xiaris/BADMET.git
 cd BADMET
 python -m pip install -r requirements.txt
 jupyter lab demo.ipynb
+```
